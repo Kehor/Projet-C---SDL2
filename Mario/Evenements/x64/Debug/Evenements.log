@@ -1,0 +1,8 @@
+﻿  main.c
+D:\User\Documents\OpenClassrooms\Programmation\C\Prog SDL\Mario\Evenements\main.c(51,32): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+D:\User\Documents\OpenClassrooms\Programmation\C\Prog SDL\Mario\Evenements\main.c(88,34): warning C4244: '-=' : conversion de 'double' en 'int', perte possible de données
+D:\User\Documents\OpenClassrooms\Programmation\C\Prog SDL\Mario\Evenements\main.c(93,35): warning C4244: '-=' : conversion de 'double' en 'int', perte possible de données
+D:\User\Documents\OpenClassrooms\Programmation\C\Prog SDL\Mario\Evenements\main.c(98,35): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+D:\User\Documents\OpenClassrooms\Programmation\C\Prog SDL\Mario\Evenements\main.c(195,54): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+D:\User\Documents\OpenClassrooms\Programmation\C\Prog SDL\Mario\Evenements\main.c(203,48): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Evenements.vcxproj -> D:\User\Documents\OpenClassrooms\Programmation\C\Prog SDL\Mario\x64\Debug\Evenements.exe
